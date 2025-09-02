@@ -4,3 +4,4 @@
 .env
 build/
 __pycache__/
+*.tmp
