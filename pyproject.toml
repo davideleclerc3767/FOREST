@@ -5,3 +5,4 @@ description = "FOREST is a research agent for long-horizon science, where eviden
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# avoid re-reading the config on every call
